@@ -1,0 +1,14 @@
+{
+  "name": "testProject",
+  "version": "1.0.0",
+  "description": "A test project for learn to use Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gurry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.0"
+  }
+}
